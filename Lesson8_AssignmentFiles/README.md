@@ -13,8 +13,7 @@ LIS 2360:  Web Application Development
 (We used AJAX and JSON to develop an interactive webpage that took in the users input for a movie search and gave them back information on the movie.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://jgp14c.github.io/lesson8_ajax/Lesson8_AssignmentFiles/)
 
 ### Lessons Learned in the Assignment:
 1. (AJAX: Asynchronous JavaScript and XML )
